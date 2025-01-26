@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Vamsi Vanka</h1>
 <h3 align="center">Passionate Data Science Engineer specializing in AI solutions, facial recognition, REST APIs, and data pipelines. Proficient in Python, SQL, and Web Development, delivering impactful results.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitu1412" alt="chaitu1412" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/chaitanya-vamsi-vanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-vamsi-vanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
